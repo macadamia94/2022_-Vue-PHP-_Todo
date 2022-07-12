@@ -2,8 +2,6 @@
 
 namespace application\libs;
 
-require_once "application/utils/SessionUtils.php";
-require_once "application/utils/FileUtils.php";
 require_once "application/utils/UrlUtils.php";
 
 class Application {
